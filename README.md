@@ -3,6 +3,3 @@
 - **Nome:** Chauã Queirolo
 - **Disciplina:** Desenvolvimento para Dispositivos Móveis
 
-[Teste](www.github.com)  
-
-
